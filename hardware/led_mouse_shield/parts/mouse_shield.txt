@@ -1,0 +1,45 @@
+Partlist
+
+Exported from mouse_shield.sch at 8/16/11 3:43 PM
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value                Device         Package        Library                 Sheet
+
+C1       1u                   C-USC1206      C1206          rcl                     1
+C2       1u                   C-USC1206      C1206          rcl                     1
+IC1      ADNS-3000            ADNS-3000      ADNS-3000      avago                   1
+IC2      MCP1825S-1802E/DB-ND LM340S         SOT223         linear                  1
+LED1     LED_RING             LED_RING       LED_RING       SparkFun                1
+Q1       BSS138               BSS123         SOT23          transistor-small-signal 1
+R1       11K                  R-US_R1206     R1206          rcl                     1
+R2       11K                  R-US_R1206     R1206          rcl                     1
+R3       11K                  R-US_R1206     R1206          rcl                     1
+R4       11K                  R-US_R1206     R1206          rcl                     1
+R5       6.2K                 R-US_R1206     R1206          rcl                     1
+R6       6.2K                 R-US_R1206     R1206          rcl                     1
+R7       6.2K                 R-US_R1206     R1206          rcl                     1
+R8       11K                  R-US_R1206     R1206          rcl                     1
+R9       560                  R-US_R1206     R1206          rcl                     1
+R10      560                  R-US_R1206     R1206          rcl                     1
+R11      560                  R-US_R1206     R1206          rcl                     1
+R12      560                  R-US_R1206     R1206          rcl                     1
+R13      560                  R-US_R1206     R1206          rcl                     1
+R14      560                  R-US_R1206     R1206          rcl                     1
+R15      560                  R-US_R1206     R1206          rcl                     1
+R16      560                  R-US_R1206     R1206          rcl                     1
+R17      560                  R-US_R1206     R1206          rcl                     1
+R18      560                  R-US_R1206     R1206          rcl                     1
+R19      560                  R-US_R1206     R1206          rcl                     1
+R20      560                  R-US_R1206     R1206          rcl                     1
+R21      560                  R-US_R1206     R1206          rcl                     1
+R22      560                  R-US_R1206     R1206          rcl                     1
+R23      560                  R-US_R1206     R1206          rcl                     1
+R24      560                  R-US_R1206     R1206          rcl                     1
+R26      0                    R-US_R1206     R1206          rcl                     1
+R27      0                    R-US_R1206     R1206          rcl                     1
+R28      0                    R-US_R1206     R1206          rcl                     1
+R29      0                    R-US_R1206     R1206          rcl                     1
+R30      0                    R-US_R1206     R1206          rcl                     1
+R31      0                    R-US_R1206     R1206          rcl                     1
+U$1      ARDUINO-NOHOLE       ARDUINO-NOHOLE ARDUINO-NOHOLE adafruit                1
