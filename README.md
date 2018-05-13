@@ -1,4 +1,4 @@
-SpeckleSense: Software and Hardware for High-Speed Embedded Motion Sensing
+SpeckleSense: High-Speed Embedded Motion Sensing (software + hardware)
 ======================
 This repository contains software and hardware developed for the [SpeckleSense/SpeckleEye](http://olwal.com/#high-speed_embedded_motion_sensing) research projects at MIT. 
 
